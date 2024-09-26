@@ -25,9 +25,8 @@ python>=3.6
 2. **Clone the Repository**: 
    - Open your terminal or command prompt and run the following command to clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-spam-filtering-ai.git
+   git clone https://github.com/BekiChemeda/simple-spam-filtering-ai.git
    ```
-   - Replace `yourusername` with your actual GitHub username if necessary.
 
 3. **Navigate to the Project Directory**: 
    - Change to the directory where the project was cloned:
