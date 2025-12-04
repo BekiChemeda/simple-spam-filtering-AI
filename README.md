@@ -1,5 +1,5 @@
 
-# Simple Spam Filtering AI
+# Simple Spam Filtering AI Project 
 
 ## Overview
 This is a Simple Spam Filtering AI project built using the Naive Bayes classifier. It classifies emails as either spam or ham (not spam) based on the email content. The project uses a dataset of email messages and implements text processing techniques to train a model that can identify spam emails.
